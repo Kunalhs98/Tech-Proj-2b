@@ -23,7 +23,7 @@ namespace Tech_Proj_2b
                 else if ((grade >= 70) && (grade <= 72)) Console.WriteLine("Grade C-");
                 else if ((grade >= 67) && (grade <= 69)) Console.WriteLine("Grade D+");
                 else if ((grade >= 63) && (grade <= 66)) Console.WriteLine("Grade D");
-                else if ((grade >= 60) && (grade <= 62)) Console.WriteLine("Grade D");
+                else if ((grade >= 60) && (grade <= 62)) Console.WriteLine("Grade D-");
                 else if ((grade >= 0) && (grade <= 59)) Console.WriteLine("Grade F");
                 else Console.WriteLine("Invalid input");
 
